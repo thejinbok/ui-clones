@@ -29,3 +29,21 @@ Since most of what I've done (and do) in my career as a software engineer is bac
 ## Projects
 ### Currently working
 - [Uber App](uber-app/README.md)
+
+### Roadmap
+- [Nubank Mobile Application]()
+- [Pipefy Web Application]()
+- [Instagram Mobile Application]()
+- [Discord Web Application]()
+- [Twitter Web Application]()
+- [Stripe Website]()
+- [GitHub Web Application]()
+- [Dropbox Website]()
+- [LinkedIn Web Application]()
+- [Twitch Mobile Application]()
+- [Mercado Livre Web Application]()
+- [Typeform Website]()
+- [Tesla Website]()
+- [Google Website]()
+- [Pinterest Website]()
+- [Vercel Website]()
