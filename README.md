@@ -27,8 +27,8 @@ Since most of what I've done (and do) in my career as a software engineer is bac
 3. Front-End Technologies
 
 ## Projects
-### Currently working
-- [Uber App](uber-app/README.md)
+### Currently working on
+- [Uber Mobile Application](uber-mobile-application/README.md)
 
 ### Roadmap
 - [Nubank Mobile Application]()
